@@ -1,5 +1,5 @@
 sudo apt update && sudo apt upgrade -y
-sudo apt install neofetch wget git figlet net-tools nginx python synaptic python-pip thonny nano vim cmatrix make -y
+sudo apt install neofetch wget git figlet gcc make net-tools nginx python synaptic python-pip thonny nano vim cmatrix make -y
 figlet laura is short
 neofetch
 uname -a
